@@ -15,7 +15,7 @@ a passionate software developer with a love for creating innovative solutions an
                     
 ### Socials  <p align="left"> <a href="https://www.github.com/lilpat4u" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a>
 
- <a href="https://t.me/lilpat" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=9R1sV3QvY18K&format=png&color=000000" width="32" height="32" /> </picture> </a></p>
+ <a href="https://t.me/lilpat" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=A4uyUh8LBg90&format=png&color=ffffff" width="32" height="32" /> </picture> </a></p>
 
 ### Badges
 
