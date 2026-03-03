@@ -1,12 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Danil
-=============================================================================================================================
-
-a passionate software developer with a love for creating innovative solutions and learning new technologies. With a strong background in Web-Developments and hands-on experience in various programming languages, I'm excited to share my projects and contributions with you
-
-*   🌍  I'm based in Yoshkar-Ola
-*   ✉️  You can contact me at [vineyardone1@gmail.com](mailto:vineyardone1@gmail.com), https://t.me/lilpat
-*   🧠  I'm learning a new framework for me - Vue.js
-*   🤝  I'm open to collaborating on some project
+Hi !
 
 ### Skills 
 <p align="left">
